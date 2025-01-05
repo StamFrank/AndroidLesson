@@ -10,13 +10,17 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/P00101_Listener" />
+            <option value="$PROJECT_DIR$/P0091_OnClickButtons" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/p0101_listener" />
             <option value="$PROJECT_DIR$/p0031-1firstproject" />
             <option value="$PROJECT_DIR$/p0041-1basicviews" />
             <option value="$PROJECT_DIR$/p0041-2basicviews" />
             <option value="$PROJECT_DIR$/p0041basicviews" />
             <option value="$PROJECT_DIR$/p00511layoutfiles" />
             <option value="$PROJECT_DIR$/p0051layoutfiles" />
+            <option value="$PROJECT_DIR$/p0101_listener" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
